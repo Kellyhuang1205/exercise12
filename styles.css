@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background-color: #fff;
+    margin: 0;
+    padding: 20px;
+}
+
+.box1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    background-color: #b0d5e7; /* Light blue background */
+    padding: 20px;
+    border: 5px solid red; /* Outer red border */
+    border-top: 10px double #ff4500; /* Inner orange double border on top */
+    width: 300px;
+    text-align: center;
+}
+
+.box2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    background-color: yellow; /* Yellow background */
+    padding: 20px;
+    border: 2px solid blue; /* Blue border */
+    width: 300px;
+    text-align: center;
+}
+
+.box3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    background-color: green; /* Green background */
+    padding: 20px;
+    border: 2px solid purple; /* Purple border */
+    background-image: radial-gradient(circle, #d3d3d3 1px, transparent 1px); /* Polka dot pattern */
+    background-size: 20px 20px;
+    width: 300px;
+    text-align: center;
+}
