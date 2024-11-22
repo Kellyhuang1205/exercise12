@@ -18,7 +18,7 @@
       background-color: lightblue;
       border: 2px solid red;
       padding: 10px;
-      border-radius: 5px;
+      border-radius: 0px;
       text-align: left;
       font-family: Times New Roman, Georgia, serief;
       font-size: 20px;
@@ -41,13 +41,13 @@
     .box3 {
       background-color: green;
       padding: 10px;
-      border-radius: 5px;
+      border-radius: 0px;
       text-align: left;
       font-family: Times New Roman, Georgia, serief;
       font-size: 20px;
       font-weight: bold;
       color: black;
-      background-image: radial-gradient(circle, brown 10%, transparent 10%);
+      background-image: radial-gradient(circle, brown 20%, transparent 10%);
       background-size: 20px 20px;
     }
   </style>
