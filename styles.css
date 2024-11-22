@@ -1,8 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Times New Roman, Georgia, serief;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left;
     gap: 10px;
     background-color: #fff;
     margin: 0;
