@@ -47,10 +47,11 @@
   font-size: 20px;
   font-weight: bold;
   color: black;
-  background-image: radial-gradient(circle, grey 30%, transparent 5%);
-  background-size: 20px 20px;
-  margin-bottom: 20px; /* 設定下面的間隔 */
+  border-style: dotted;
+  border-color: grey;
+  border-width: thick;
 }
+
 
       </style>
 </head>
