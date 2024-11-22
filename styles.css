@@ -22,7 +22,7 @@
       font-family: Times New Roman, Georgia, serief;
       font-size: 20px;
       font-weight: bold;
-      box-shadow: 0 0 0 10px white, 0 0 0 14px red;
+      box-shadow: 0 0 0 -1px lightblue, 0 0 0 -2px red;
     }
 
     /* Second box styling */
