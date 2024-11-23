@@ -15,6 +15,7 @@
 .box1 {
   background-color: lightblue;
   border: 2px solid red;
+  box-shadow: 0 0 0 4px red;
   padding: 10px;
   border-radius: 0px;
   text-align: left;
