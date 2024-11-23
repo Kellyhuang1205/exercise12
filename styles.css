@@ -11,17 +11,20 @@
       flex-direction: column;
       gap: 10px;
     }
+
 /* First box styling */
 .box1 {
-  background-color: lightblue; /* 背景色 */
-  border: 2px solid red;       /* 內層紅框 */
-  outline: 4px solid red;      /* 外層紅框 */
-  padding: 10px;               /* 內邊距，讓內容與框有距離 */
+  background-color: lightblue;
+  border: 2px solid red;
+  box-shadow: 0 0 0 10px white, 0 0 0 14px solid red;
+  padding: 10px;
+  border-radius: 0px;
+  text-align: left;
   font-family: Times New Roman, Georgia, serif;
-  font-size: 20px;
+  font-size: 25px;
   font-weight: bold;
-  text-align: center;
-}
+  margin-bottom: 20px;
+  border-style: double;
 
 
 /* Second box styling */
