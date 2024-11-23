@@ -17,26 +17,21 @@
   border: 2px solid red;
   padding: 10px;
   border-radius: 0px;
+  border-width: 20px;
   text-align: left;
   font-family: Times New Roman, Georgia, serif;
   font-size: 20px;
   font-weight: bold;
   margin-bottom: 20px; /* 設定下面的間隔 */
 }
-.inner-box {
-    background-color: white; /* 內部框的背景色 */
-    border: 2px solid red;   /* 紅色邊框 */
-    padding: 10px;           /* 內邊距 */
-    margin: 10px;            /* 與外部框的間隔 */
-    border-radius: 5px;      /* 內部框圓角（可選） */
-    text-align: center;      /* 文字置中 */
-}
+
 /* Second box styling */
 .box2 {
   background-color: yellow;
   border: 2px solid blue;
   padding: 7px;
   border-radius: 10px;
+  border-width: 20px;
   text-align: left;
   font-family: Times New Roman, Georgia, serif;
   font-size: 20px;
