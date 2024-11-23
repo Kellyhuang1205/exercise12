@@ -28,7 +28,7 @@
 /* Second box styling */
 .box2 {
   background-color: yellow;
-  border: 2px solid blue;
+  border: 2px dodgerblue;
   padding: 7px;
   border-radius: 10px;
   text-align: left;
@@ -40,7 +40,7 @@
 
 /* Third box styling */
 .box3 {
-  background-color: green;
+  background-color: mediumseagreen;
   padding: 10px;
   border-radius: 0px;
   text-align: left;
