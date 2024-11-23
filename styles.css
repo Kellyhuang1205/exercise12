@@ -15,7 +15,7 @@
 .box1 {
   background-color: lightblue;
   border: 2px solid red;
-  box-shadow: 0 0 0 4px red;
+  box-shadow: 0 0 0 5px white, 0 0 0 14px solid red;
   padding: 10px;
   border-radius: 0px;
   text-align: left;
@@ -28,7 +28,7 @@
 /* Second box styling */
 .box2 {
   background-color: yellow;
-  border: 2px dodgerblue;
+  border: 2px royalblue;
   padding: 7px;
   border-radius: 10px;
   text-align: left;
@@ -50,7 +50,7 @@
   color: black;
   border-style: dotted;
   border-color: grey;
-  border-width: 8px;
+  border-width: 11px;
 }
 
 
